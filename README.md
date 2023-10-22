@@ -5,3 +5,5 @@
 ### Deployment Link :
 
 https://dqp-quora.onrender.com/
+
+Note : The website may take 30 to 45 seconds to load. Please be patient.
